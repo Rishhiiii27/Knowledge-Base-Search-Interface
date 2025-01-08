@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-base-backend",
+  "version": "1.0.0",
+  "description": "Backend API for knowledge base search using GPT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "dotenv": "^16.0.0",
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
