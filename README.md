@@ -12,6 +12,13 @@ A full-fledged knowledge base search interface built with **React.js**, **Redux*
 - **Live Sync**: Simulated syncing with tools like Google Drive and OneDrive for fetching and indexing documents.
 - **Advanced Search**: Support for metadata filtering, ranking, and accurate results.
 
+##🔹 How It Works
+- **1️⃣ Enterprise Search – Users can search and filter documents based on metadata.
+- **2️⃣ Conversational AI – Ask natural language queries and get intelligent responses.
+- **3️⃣ Document Highlighting – Relevant sections are auto-highlighted for quick reference.
+- **4️⃣ Live Sync – New documents from cloud storage are indexed in real-time.
+- **5️⃣ Advanced Ranking – Search results are sorted by relevance, recency, and popularity.
+
 ---
 
 ## Tech Stack
